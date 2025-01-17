@@ -3,6 +3,74 @@
   "WorkspaceRootPath": "D:\\workspace\\github\\hieu_api_template\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|d:\\workspace\\github\\hieu_api_template\\domain\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|d:\\workspace\\github\\hieu_api_template\\domain\\entities\\paymentpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\paymentpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|d:\\workspace\\github\\hieu_api_template\\domain\\entities\\cancelpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\cancelpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|d:\\workspace\\github\\hieu_api_template\\domain\\entities\\cancelbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\cancelbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|d:\\workspace\\github\\hieu_api_template\\domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|d:\\workspace\\github\\hieu_api_template\\domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|d:\\workspace\\github\\hieu_api_template\\domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|d:\\workspace\\github\\hieu_api_template\\domain\\entities\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|d:\\workspace\\github\\hieu_api_template\\domain\\entities\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|d:\\workspace\\github\\hieu_api_template\\domain\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|d:\\workspace\\github\\hieu_api_template\\domain\\entities\\answerrecommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\answerrecommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|d:\\workspace\\github\\hieu_api_template\\domain\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|d:\\workspace\\github\\hieu_api_template\\domain\\entities\\therapist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\therapist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|d:\\workspace\\github\\hieu_api_template\\domain\\entities\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|d:\\workspace\\github\\hieu_api_template\\domain\\entities\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|d:\\workspace\\github\\hieu_api_template\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|d:\\workspace\\github\\hieu_api_template\\domain\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2211C1C9-689B-49A4-828D-6E35F54B7AE0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C096DDCB-C5DA-46AD-9BFD-1A9CC5D30073}|Api\\Api.csproj|d:\\workspace\\github\\hieu_api_template\\api\\controllers\\housecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C096DDCB-C5DA-46AD-9BFD-1A9CC5D30073}|Api\\Api.csproj|solutionrelative:api\\controllers\\housecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 731,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +102,228 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentPolicy.cs",
+              "DocumentMoniker": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\PaymentPolicy.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\PaymentPolicy.cs",
+              "ToolTip": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\PaymentPolicy.cs",
+              "RelativeToolTip": "Domain\\Entities\\PaymentPolicy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:16:34.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CancelPolicy.cs",
+              "DocumentMoniker": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\CancelPolicy.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\CancelPolicy.cs",
+              "ToolTip": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\CancelPolicy.cs",
+              "RelativeToolTip": "Domain\\Entities\\CancelPolicy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:16:14.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CancelBooking.cs",
+              "DocumentMoniker": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\CancelBooking.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\CancelBooking.cs",
+              "ToolTip": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\CancelBooking.cs",
+              "RelativeToolTip": "Domain\\Entities\\CancelBooking.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:15:43.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Review.cs",
+              "ToolTip": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\Review.cs",
+              "RelativeToolTip": "Domain\\Entities\\Review.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvyUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:15:21.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Payment.cs",
+              "ToolTip": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\Payment.cs",
+              "RelativeToolTip": "Domain\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:15:05.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Booking.cs",
+              "ToolTip": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\Booking.cs",
+              "RelativeToolTip": "Domain\\Entities\\Booking.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA7wBcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:14:35.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Customer.cs",
+              "ToolTip": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:14:20.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Report.cs",
+              "DocumentMoniker": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\Report.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Report.cs",
+              "ToolTip": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\Report.cs",
+              "RelativeToolTip": "Domain\\Entities\\Report.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:13:16.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\Service.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Service.cs",
+              "ToolTip": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\Service.cs",
+              "RelativeToolTip": "Domain\\Entities\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:12:53.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AnswerRecommendation.cs",
+              "DocumentMoniker": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\AnswerRecommendation.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\AnswerRecommendation.cs",
+              "ToolTip": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\AnswerRecommendation.cs",
+              "RelativeToolTip": "Domain\\Entities\\AnswerRecommendation.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:12:32.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\Answer.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Answer.cs",
+              "ToolTip": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\Answer.cs",
+              "RelativeToolTip": "Domain\\Entities\\Answer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:12:00.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\Question.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Question.cs",
+              "ToolTip": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\Question.cs",
+              "RelativeToolTip": "Domain\\Entities\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:11:44.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Therapist.cs",
+              "DocumentMoniker": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\Therapist.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Therapist.cs",
+              "ToolTip": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\Therapist.cs",
+              "RelativeToolTip": "Domain\\Entities\\Therapist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:04:07.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\Manager.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Manager.cs",
+              "ToolTip": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\Manager.cs",
+              "RelativeToolTip": "Domain\\Entities\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:03:02.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\Staff.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Staff.cs",
+              "ToolTip": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\Staff.cs",
+              "RelativeToolTip": "Domain\\Entities\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:02:42.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\workspace\\github\\hieu_api_template\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:01:17.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "D:\\workspace\\github\\hieu_api_template\\Domain\\Interfaces\\IEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IEntity.cs",
+              "ToolTip": "D:\\workspace\\github\\hieu_api_template\\Domain\\Interfaces\\IEntity.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:00:33.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "HouseController.cs",
               "DocumentMoniker": "D:\\workspace\\github\\hieu_api_template\\Api\\Controllers\\HouseController.cs",
               "RelativeDocumentMoniker": "Api\\Controllers\\HouseController.cs",
@@ -47,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\workspace\\github\\hieu_api_template\\Api\\Program.cs",
               "RelativeDocumentMoniker": "Api\\Program.cs",
@@ -59,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 20,
               "Title": "HouseRepository.cs",
               "DocumentMoniker": "D:\\workspace\\github\\hieu_api_template\\Infrastructure\\Repositories\\HouseRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repositories\\HouseRepository.cs",
@@ -71,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 19,
               "Title": "HouseService.cs",
               "DocumentMoniker": "D:\\workspace\\github\\hieu_api_template\\Application\\Services\\HouseService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\HouseService.cs",
