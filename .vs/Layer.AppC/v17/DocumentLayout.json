@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\github\\hieu_api_template\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C096DDCB-C5DA-46AD-9BFD-1A9CC5D30073}|Api\\Api.csproj|d:\\workspace\\github\\hieu_api_template\\api\\controllers\\housecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C096DDCB-C5DA-46AD-9BFD-1A9CC5D30073}|Api\\Api.csproj|solutionrelative:api\\controllers\\housecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C096DDCB-C5DA-46AD-9BFD-1A9CC5D30073}|Api\\Api.csproj|d:\\workspace\\github\\hieu_api_template\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C096DDCB-C5DA-46AD-9BFD-1A9CC5D30073}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{945E2942-4EAB-4793-8D0D-D9F8234EBC3D}|Application\\Application.csproj|d:\\workspace\\github\\hieu_api_template\\application\\services\\houseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945E2942-4EAB-4793-8D0D-D9F8234EBC3D}|Application\\Application.csproj|solutionrelative:application\\services\\houseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364AA17C-21BC-4EBE-BA61-F8B7BB63D9FE}|Infrastructure\\Infrastructure.csproj|d:\\workspace\\github\\hieu_api_template\\infrastructure\\repositories\\houserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364AA17C-21BC-4EBE-BA61-F8B7BB63D9FE}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\houserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 731,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HouseController.cs",
+              "DocumentMoniker": "D:\\workspace\\github\\hieu_api_template\\Api\\Controllers\\HouseController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\HouseController.cs",
+              "ToolTip": "D:\\workspace\\github\\hieu_api_template\\Api\\Controllers\\HouseController.cs",
+              "RelativeToolTip": "Api\\Controllers\\HouseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:29:47.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\github\\hieu_api_template\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "D:\\workspace\\github\\hieu_api_template\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:29:21.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HouseRepository.cs",
+              "DocumentMoniker": "D:\\workspace\\github\\hieu_api_template\\Infrastructure\\Repositories\\HouseRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\HouseRepository.cs",
+              "ToolTip": "D:\\workspace\\github\\hieu_api_template\\Infrastructure\\Repositories\\HouseRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\HouseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:29:12.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HouseService.cs",
+              "DocumentMoniker": "D:\\workspace\\github\\hieu_api_template\\Application\\Services\\HouseService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\HouseService.cs",
+              "ToolTip": "D:\\workspace\\github\\hieu_api_template\\Application\\Services\\HouseService.cs",
+              "RelativeToolTip": "Application\\Services\\HouseService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:29:05.649Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
